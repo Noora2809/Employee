@@ -5,7 +5,7 @@ head1.innerHTML = `Welcome ${username}`;
 
 function logout(){
     localStorage.clear();
-    window.location = './login.html'
+    window.location = './index.html'
 }
 
 // function addEmp(){
